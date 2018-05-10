@@ -4,3 +4,7 @@ description: Youtube stuff Goes Here
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+other:
+  yt: https://www.youtube.com/channel/UCfFZ1QAWU3vIfmk1OA-oz6A
+  hooktube: https://hooktube.com/channel/UCfFZ1QAWU3vIfmk1OA-oz6A
+  rss: https://pygy.co/jetso
