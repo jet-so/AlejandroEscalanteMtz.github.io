@@ -1,6 +1,6 @@
 title: jet_so
 logo: /assets/img/logo.png
 description: Youtube stuff Goes Here
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
