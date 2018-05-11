@@ -8,7 +8,6 @@ All your contacts on one safe place! V card Tutorial
 ## Recomended
 
 How to subscribe to a YouTube channel via RSS
-
 > Thursday, May 3, 2018, 8:06 PM
 
 
