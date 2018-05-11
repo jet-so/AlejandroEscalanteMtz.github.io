@@ -12,7 +12,9 @@ None
 
 ---
 
-I made this site so hooktube users can follow along my tutorials, hooktube docent currently displays descriptions, so here I archive them for everyone to see!
+## Hello world!
+
+I made this site so hooktube users can follow along my tutorials, hooktube docent currently display video descriptions and most of my videos have links you need to follow for my tutorials, so here I archive them for everyone to see!
 
 ## What is hooktube?
 
