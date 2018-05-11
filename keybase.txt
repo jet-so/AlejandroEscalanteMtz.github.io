@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alexesc
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jet-so.github.io
+  * I am alexesc (https://keybase.io/alexesc) on keybase.
+  * I have a public key ASBsqiuK7gPawBqyJkcvrTKZMCFiEWTlRb7Xrj2MooLeCQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012091ce1e80754edd710f1b9854215d49127292bb451133604cb160db06c5adba230a",
+      "host": "keybase.io",
+      "kid": "01206caa2b8aee03dac01ab226472fad32993021621164e545bed7ae3d8ca282de090a",
+      "uid": "e58f58d6c38ff9f63189d30109ffca19",
+      "username": "alexesc"
+    },
+    "merkle_root": {
+      "ctime": 1526043964,
+      "hash": "21a9ffdf3e3abdbac9633433338bd9bb0ba359676cc449be9704767d35da06b36f786cb9d275d8822ea1ed17ec03d6cac6f878217509e9f6dc1a5ae929f5542f",
+      "hash_meta": "e98a1c67ee9e541f3aa94ed05487e801eaa3708ad6c7f76317c35fbc03d58a34",
+      "seqno": 2636130
+    },
+    "service": {
+      "entropy": "HQCMclFDnr3rUJo6NKhpXJxP",
+      "hostname": "jet-so.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.47"
+  },
+  "ctime": 1526043978,
+  "expire_in": 504576000,
+  "prev": "860fc9c1ba4f43739fb4f67dab980cdf151f9adbdd4104b95174ac1c2b3f9989",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbKoriu4D2sAasiZHL60ymTAhYhFk5UW+1649jKKC3gkKp3BheWxvYWTESpcCEsQghg/JwbpPQ3OftPZ9q5gM3xUfmtvdQQS5UXSsHCs/mYnEIAbgP67iAron4sRWjcW0YwQMHx+X0/oEldxOAnjIPXArAgHCo3NpZ8RAJ1ayUGC0bNCI5xJS/s0esBusqS+ndSA3NTQ8nBbNuXDj/HV8CDHtX5/6WzWh6D7phPXpORLHp7HgY45BoocuDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIENKQDvxniZSN/ZTorowJJgrlYv6H0Pq7rg8BE0pZvDao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexesc
+
+==================================================================
