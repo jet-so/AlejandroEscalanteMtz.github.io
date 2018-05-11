@@ -33,3 +33,9 @@ https://alex-esc.github.io
 https://alex-esc.github.io/keybase.txt
 
 https://jet-so.github.io/keybase.txt
+
+
+# How can I independently verify your identity?
+
+Well If I told you how to do it, it wouldn't be independent from me, you can start by doing a [web search](http://lmgtfy.com/?s=d&q=what+is+keybase%3F) for my method of identity verification "keybase"
+
