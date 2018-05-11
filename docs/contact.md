@@ -20,7 +20,7 @@ alexesc
 
 ## personal site
 
-alex-esc.github.io
+https://alex-esc.github.io
 
 ## proofs
 
