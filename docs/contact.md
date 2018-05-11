@@ -18,5 +18,12 @@ jetso@disroot.org
 
 alexesc
 
-## proof
+## personal site
 
+alex-esc.github.io
+
+## proofs
+
+https://alex-esc.github.io/keybase.txt
+
+https://jet-so.github.io/keybase.txt
