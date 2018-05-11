@@ -7,8 +7,6 @@ Youtube| hooktube
 --- | --- 
 [Link]()|[Link]()
 
-
-
 ```
  Access this slide presentation: https://slides.com/alexesc/vcf 
  
