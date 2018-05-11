@@ -30,21 +30,19 @@ layout: default
 ---
 
 
-[Volume Icon Missing Fix](https://jet-so.github.io/docs/allvids.md#volume-icon-missing-fix)
+[Volume Icon Missing Fix](https://jet-so.github.io/docs/allvids.md#volume-icon-missing-fix.html)
 > Saturday, September 30, 2017, 7:33 AM
 
 ---
 
 
-[How To Fix Edges Getting Cut Over HDMI [Fix Black Bars]](https://jet-so.github.io/docs/allvids.md#how-to-fix-edges-getting-cut-over-hdmi-fix-black-bars
-.html)
+[How To Fix Edges Getting Cut Over HDMI [Fix Black Bars]](https://jet-so.github.io/docs/allvids.md#how-to-fix-edges-getting-cut-over-hdmi-fix-black-bars.html)
 > Tuesday, May 1, 2018, 7:26 PM
 
 ---
 
 
-[How To Change Premiere Pro 2017 To English](https://jet-so.github.io/docs/allvids.md#how-to-change-premiere-pro-2017-to-english
-.html)
+[How To Change Premiere Pro 2017 To English](https://jet-so.github.io/docs/allvids.md#how-to-change-premiere-pro-2017-to-english.html)
 > Thursday, May 10, 2018, 7:28 AM
 
 ---
