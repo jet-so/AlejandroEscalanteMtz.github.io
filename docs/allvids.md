@@ -5,7 +5,7 @@
 
 Youtube| hooktube
 --- | --- 
-[Link]()|[Link]()
+[Link](https://www.youtube.com/watch?v=cKlMBZiec_g)|[Link](https://www.hooktube.com/watch?v=cKlMBZiec_g)
 
 ```
  Access this slide presentation: https://slides.com/alexesc/vcf 
@@ -21,6 +21,11 @@ Youtube| hooktube
 
 ## How to subscribe to a YouTube channel via RSS
 > Thursday, May 3, 2018, 8:06 PM
+
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=9ggN-Ek-iuI)|[Link](https://www.hooktube.com/watch?v=9ggN-Ek-iuI)
+
 
 ```
 Slide show presentation used: https://slides.com/alexesc/ytrss 
@@ -43,12 +48,22 @@ XML export short link https://pygy.co/ytrss
 ## Volume Icon Missing Fix
 > Saturday, September 30, 2017, 7:33 AM
 
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=SXFx5wZKE0U)|[Link](https://www.hooktube.com/watch?v=SXFx5wZKE0U)
+
+
 ```
 2nd method: http://www.thewindowsclub.com/volume-icon-missing-from-taskbar-windows
 ```
 
 ## How To Fix Edges Getting Cut Over HDMI [Fix Black Bars]
 > Tuesday, May 1, 2018, 7:26 PM
+
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=3WGOuCu4Fuk)|[Link](https://www.hooktube.com/watch?v=3WGOuCu4Fuk)
+
 
 ```
 written instructions: 
@@ -63,6 +78,11 @@ Music credits: Spanish Summer de Audionautix está sujeta a una licencia de Crea
 
 ## How To Change Premiere Pro 2017 To English
 > Thursday, May 10, 2018, 7:28 AM
+
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=2JpQLJNLS1M)|[Link](https://www.hooktube.com/watch?v=2JpQLJNLS1M)
+
 
 ```
 Make sure premiere is not running 
@@ -111,6 +131,11 @@ zh_TW
 ## Fastest Way To Change Premiere Pro's Language (2015)
 > Thursday, April 5, 2018, 12:42 AM
 
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=wjbKGUtVyrw)|[Link](https://www.hooktube.com/watch?v=wjbKGUtVyrw)
+
+
 ```
 copy paste your desired language
 
@@ -156,12 +181,22 @@ zh_TW
 ## Full Metal Jacket Fan-Made Trailer
 > Thursday, July 6, 2017, 10:28 AM
 
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=FZ2jSgvnS4o)|[Link](https://www.hooktube.com/watch?v=FZ2jSgvnS4o)
+
+
 ```
 No description...
 ```
 
 ## Fan-made Star Wars The Force Awakens Trailer
 > Thursday, December 17, 2015, 9:12 AM
+
+Youtube| hooktube
+--- | --- 
+[Link](https://www.youtube.com/watch?v=RSV0goUt9Mc)|[Link](https://www.hooktube.com/watch?v=RSV0goUt9Mc)
+
 
 ```
 The seventh entry on the star wars franchise is days away !
