@@ -1,5 +1,7 @@
 # Contact info
 
+Cool idea for a video or just want to get in touch? you can reach me by:
+
 ## e-mail
 
 jetso@disroot.org
@@ -13,6 +15,8 @@ jetso@disroot.org
 @jet_so
 
 # Verify my identity
+
+Yes me and "alex esc" are the same person, you can take my word or verify it by yourself:
 
 ## keybase
 
