@@ -21,3 +21,17 @@ I made this site so hooktube users can follow along my tutorials, hooktube docen
 A site that lets you watch YouTube Videos without being tracked by Google.
 
 Just replace <code>www.youtube.com</code> with <code>www.hooktube.com</code> on any channel or video link.
+
+You can also download videos or audio only, access any geo-blocked or restricted content, watch YouTube at work if <code>www.youtube.com</code> is blocked in your workplace, docent require any account or email sign-up and it blocks all ads on mobile and desktop. 
+
+It's very good and I use it all the time, it replaced YouTube for me, because again: No ads!
+
+## What can you expect from me?
+
+More cool sites, programs and tricks like hooktube, I find cool stuff like this every once in a while and I will be sharing it here and on my YT channel.
+
+Im planinng on making videos on how to take fast and effective notes on your computer, cool android apps, LaTeX tutorials, Online privacy videos, Premiere Tutorials, how to make good looking presentations with as little input as possible, how to set up cool macros for automating tasks with autohotkey, maybe some linux videos, self hosting, how to make your own website and much more!
+
+Click on the RSS button or subscribe to my YouTube to stay updated!
+
+(If you have no idea what RSS is or does I have a video on that too coming up next)
