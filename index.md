@@ -8,7 +8,8 @@ Not yet
 
 # Recent Activity
 
-None
+<div class="reddit-embed" data-embed-media="www.redditmedia.com" data-embed-parent="true" data-embed-live="false" data-embed-uuid="ecfe265d-0104-4e1c-aaae-d023bce3cd59" data-embed-created="2018-05-12T02:35:11.664Z"><a href="https://www.reddit.com/r/privacy/comments/8hx9bi/the_youtube_struggle/dynkrwf/">Comment</a> from discussion <a href="https://www.reddit.com/r/privacy/comments/8hx9bi/the_youtube_struggle/">The YouTube struggle.</a>.</div><script async src="https://www.redditstatic.com/comment-embed.js"></script>
+
 
 ---
 
