@@ -1,5 +1,76 @@
 # Videos
 
+## YouTube without the G
+> not out yet
+
+Youtube| hooktube
+--- | --- 
+[Link](nope)|[Link](nope)
+
+```
+Slide presentation used in the video
+
+https://slides.com/alexesc/yt-without-google
+
+List of Google's products
+
+https://www.google.com/about/products/
+
+Usage share of web browsers
+
+https://en.wikipedia.org/wiki/Usage_share_of_web_browsers
+
+Chrome scans your local files
+
+https://motherboard.vice.com/en_us/article/wj7x9w/google-chrome-scans-files-on-your-windows-computer-chrome-cleanup-tool
+
+https://archive.li/IhzAX
+
+Google is in the business of war
+
+https://www.theverge.com/2018/4/12/17229150/pentagon-project-maven-ai-google-war-military
+
+https://archive.fo/KPlYD
+
+Download Waterfox
+
+https://www.waterfoxproject.org
+
+Download Firefox
+
+https://www.mozilla.org
+
+A normal YouTube video vs. the same video on Hooktube
+
+https://www.youtube.com/watch?v=R9OHn5ZF4Uo
+
+https://www.hooktube.com/watch?v=R9OHn5ZF4Uo
+
+Transform YouTube links to Hooktube links with this extension
+
+https://tampermonkey.net/
+
+Copy the script from here
+
+https://slides.com/alexesc/yt-without-google#/22
+
+How to subscribe to a YouTube channel via RSS
+
+https://slides.com/alexesc/ytrss
+
+NewPipe Download from F-Droid
+
+https://f-droid.org/packages/org.schabi.newpipe/
+
+FreeTube Download from Github
+
+https://github.com/FreeTubeApp/FreeTube
+
+uBlock Origin
+
+https://github.com/gorhill/uBlock
+```
+
 ## All your contacts on one safe place! V card Tutorial
 > Thursday, May 3, 2018, 8:06 PM
 
