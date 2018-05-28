@@ -14,6 +14,10 @@ jetso@disroot.org
 
 @jet_so
 
+## Mastodon
+
+mastodon.social/@jet_so
+
 # Verify my identity
 
 Yes me and "alex esc" are the same person.
