@@ -4,7 +4,9 @@
 
 # Blog
 
-Not yet
+[RSS](https://www.reddit.com/r/jet_so/.rss)
+
+Comming soon...
 
 # Recent Activity
 
