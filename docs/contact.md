@@ -14,7 +14,7 @@ jetso@disroot.org
 
 @jet_so
 
-## Mastodon
+## mastodon
 
 mastodon.social/@jet_so
 
