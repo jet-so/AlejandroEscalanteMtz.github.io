@@ -7,7 +7,6 @@ So yeah! I am working on a few vids, one about watching youtube with proxy sites
 
 [My Bit-Chute channel mirror(from now onwards)](https://www.bitchute.com/channel/jet_so/)
 
-
 ---
 
-Saturday, June 16, 2018 - [All Blog Entries](https://jet-so.github.io/blog/index)
+_Saturday, June 16, 2018 - [All Blog Entries](https://jet-so.github.io/blog/index) - [Blog RSS](https://jet-so.github.io/blogRSS)_
