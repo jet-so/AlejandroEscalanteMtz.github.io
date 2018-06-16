@@ -4,6 +4,6 @@
 
 # Blog RSS link
 
- Go to [jet-so.github.io/blogRSS](https://jet-so.github.io/blogRSS)to receive updates about me or any of my work/videos.
+ Go to [jet-so.github.io/blogRSS](https://jet-so.github.io/blogRSS) to receive updates about me or any of my work/videos.
  
  RSS provided via reddit.
