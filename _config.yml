@@ -5,6 +5,6 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 other:
-  yt: https://www.youtube.com/channel/UCfFZ1QAWU3vIfmk1OA-oz6A
-  website_rss: https://www.reddit.com/r/jet_so/.rss
-  video_rss: https://pygy.co/jetso
+  yt: https://jet-so.github.io/youtube/
+  website_rss: https://jet-so.github.io/blogRSS/
+  video_rss: https://jet-so.github.io/rss/
