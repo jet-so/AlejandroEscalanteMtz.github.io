@@ -38,3 +38,5 @@ Im planinng on making videos on how to take fast and effective notes on your com
 Click on the RSS button or subscribe to my YouTube to stay updated!
 
 (If you have no idea what RSS is or does I have a video on that too coming up next)
+
+[_usefull links_](https://jet-so.github.io/docs/ShortLinks.html)
