@@ -4,8 +4,8 @@
 
 # Blog
 
-### Quick  YouTube update!
-#### New Videos coming up!
+#### Quick  YouTube update!
+##### New Videos coming up!
 
 So yeah! I am working on a few vids, one about watching youtube with proxy sites and apps, a video on my funky desktop setup and a quick video letting people know about this site and my bitchute channel.
 
