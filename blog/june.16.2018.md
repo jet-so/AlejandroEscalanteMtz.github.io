@@ -8,4 +8,4 @@ So yeah! I am working on a few vids, one about watching youtube with proxy sites
 
 ---
 
-Saturday, June 16, 2018 - [All Blog Entries]()
+Saturday, June 16, 2018 - [All Blog Entries](https://jet-so.github.io/blog/index)
