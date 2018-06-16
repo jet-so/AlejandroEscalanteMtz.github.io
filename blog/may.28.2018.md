@@ -1,6 +1,6 @@
 # My new mastodon social account
 
-https://mastodon.social/@jet_so
+[https://mastodon.social/@jet_so](https://mastodon.social/@jet_so)
 
 ---
 
