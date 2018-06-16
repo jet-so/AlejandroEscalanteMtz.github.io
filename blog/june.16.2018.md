@@ -5,6 +5,8 @@ So yeah! I am working on a few vids, one about watching youtube with proxy sites
 
 [Peak at one of my new videos!](https://slides.com/alexesc/yt-without-google/)
 
+[My Bit-Chute channel mirror(from now onwards)](https://www.bitchute.com/channel/jet_so/)
+
 
 ---
 
