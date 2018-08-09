@@ -4,6 +4,8 @@ description: I make videos about whatever I think is cool, Like tech and video e
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+plugins:
+  - jekyll-feed
 other:
   yt: https://jet-so.github.io/youtube/
   website_rss: https://jet-so.github.io/blogRSS/
